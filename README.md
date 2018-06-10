@@ -1,27 +1,27 @@
-![alt tag](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/Assets/BTNavigationDropdownLogo.png)
+![alt tag](https://github.com/hammadzz/NavBarDropdownMenu/blob/master/Assets/BTNavigationDropdownLogo.png)
 
-[![Pod Version](https://img.shields.io/cocoapods/v/BTNavigationDropdownMenu.svg?style=flat)](http://cocoadocs.org/docsets/BTNavigationDropdownMenu/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/LICENSE)
+[![Pod Version](https://img.shields.io/cocoapods/v/BTNavigationDropdownMenu.svg?style=flat)](http://cocoadocs.org/docsets/NavBarDropdownMenu/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/hammadzz/NavBarDropdownMenu/blob/master/LICENSE)
 ![Language](https://img.shields.io/badge/language-Swift-brightgreen.svg?style=flat)
 <!--[![Build Status](https://travis-ci.org/PhamBaTho/BTNavigationDropdownMenu.svg?branch=master)](https://travis-ci.org/PhamBaTho/BTNavigationDropdownMenu)-->
 
 ## Introduction:
 This elegant **Swift** dropdown menu appears underneath the navigation bar to display a list of related items when a user clicks on the navigation title.
 
-![alt tag](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/Assets/Demo.gif)
+![alt tag](https://github.com/hammadzz/NavBarDropdownMenu/blob/master/Assets/Demo.gif)
 
 ## Installation:
 **BTNavigationDropdownMenu** is available through [CocoaPods](http://cocoapods.org). To install it, simply add the following line to your Podfile:
 
 ```ruby
 use_frameworks!
-pod 'BTNavigationDropdownMenu'
+pod 'NavBarDropdownMenu'
 ```
 Go ahead and **import** BTNavigationDropdownMenu into your own Swift files 
 ```swift
 import BTNavigationDropdownMenu
 ```
-Note: This library supports for **Xcode 8.3 Swift 3.1** and embedded frameworks.
+Note: This library supports for **Xcode 9.0 Swift 4.0** and embedded frameworks.
 
 ## Usage:
 ### Instantiate
@@ -106,10 +106,10 @@ First, assign the items and frame for the dropdown menu. Then, customize the loo
 
 ## Requirement
 - iOS 8.0+ (CocoaPods with Swift support will only work on iOS 8.0+. Alternatively, you will have to import library manually to your project)
-- Xcode 8.0+, Swift 3.0+
+- Xcode 9.0+, Swift 4.0+
 
 ## Changelog
-See the [CHANGELOG](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/CHANGELOG.md) for details
+See the [CHANGELOG](https://github.com/hammadzz/NavBarDropdownMenu/blob/master/CHANGELOG.md) for details
 
 ## License
-BTNavigationDropdownMenu is available under the MIT License. See the [LICENSE](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/LICENSE) for details.
+BTNavigationDropdownMenu is available under the MIT License. See the [LICENSE](https://github.com/hammadzz/NavBarDropdownMenu/blob/master/LICENSE) for details.
