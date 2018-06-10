@@ -17,9 +17,9 @@ This elegant **Swift** dropdown menu appears underneath the navigation bar to di
 use_frameworks!
 pod 'NavBarDropdownMenu'
 ```
-Go ahead and **import** BTNavigationDropdownMenu into your own Swift files 
+Go ahead and **import** NavBarDropdownMenu into your own Swift files 
 ```swift
-import BTNavigationDropdownMenu
+import NavBarDropdownMenu
 ```
 Note: This library supports for **Xcode 9.0 Swift 4.0** and embedded frameworks.
 
